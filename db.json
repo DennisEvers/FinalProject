@@ -1,0 +1,764 @@
+{
+  "pokemon": [
+    {
+      "id": 1,
+      "name": "Pikachu",
+      "type": "electric",
+      "level": "37"
+    },
+    {
+      "name": "Squirtle",
+      "type": "Water",
+      "level": "100",
+      "id": 3
+    },
+    {
+      "name": "Pidgeot",
+      "type": "Flying",
+      "level": "45",
+      "id": 4
+    },
+    {
+      "name": "Bulbasaur",
+      "type": "Grass",
+      "level": "16",
+      "id": 5
+    },
+    {
+      "name": "Gyarados",
+      "type": "Water and Flying",
+      "level": "80",
+      "id": 7
+    },
+    {
+      "name": "Charmander",
+      "type": "Fire",
+      "level": "12",
+      "id": 8
+    },
+    {
+      "name": "Mewtwo",
+      "type": "Psychic and Dark",
+      "level": "65",
+      "id": 9
+    },
+    {
+      "name": "Lugia",
+      "type": "Water and Flying",
+      "level": "70",
+      "id": 10
+    },
+    {
+      "name": "Blastoise",
+      "type": "Water",
+      "level": "55",
+      "id": 11
+    },
+    {
+      "name": "Charizard",
+      "type": "Fire and Dragon",
+      "level": "78",
+      "id": 12
+    },
+    {
+      "name": "Steelix",
+      "type": "Steel",
+      "level": "55",
+      "id": 13
+    },
+    {
+      "name": "Dragonite",
+      "type": "Dragon",
+      "level": "88",
+      "id": 14
+    },
+    {
+      "name": "Mimikyu ",
+      "type": "Dark and Bug",
+      "level": "72",
+      "id": 15
+    }
+  ],
+  "team": [
+    {
+      "id": 1,
+      "pokemon1": "Bulbasaur",
+      "type1": "grass",
+      "level1": "45",
+      "pokemon2": "Squirtle",
+      "type2": "Water",
+      "level2": "78",
+      "pokemon3": "Charizard",
+      "type3": "Fire",
+      "level3": "36",
+      "pokemon4": "Pikachu",
+      "type4": "Electric",
+      "level4": "44",
+      "pokemon5": "Snorlax",
+      "type5": "Normal",
+      "level5": "54",
+      "pokemon6": "Dragonite",
+      "type6": "Dragon",
+      "level6": "64"
+    },
+    {
+      "id": 2,
+      "pokemon1": "Lugia",
+      "type1": "Water",
+      "level1": "54",
+      "pokemon2": "Kyogre",
+      "type2": "Water",
+      "level2": "54",
+      "pokemon3": "Rayquaza",
+      "type3": "Dragon",
+      "level3": "54",
+      "pokemon4": "Psyduck",
+      "type4": "Water",
+      "level4": "43",
+      "pokemon5": "Gayrados",
+      "type5": "Water",
+      "level5": "76",
+      "pokemon6": "Pidgeot",
+      "type6": "Flying",
+      "level6": "43"
+    },
+    {
+      "id": 3,
+      "pokemon1": "pikachu",
+      "type1": "electric",
+      "level1": "23",
+      "pokemon2": "squirtle",
+      "type2": "water",
+      "level2": "55",
+      "pokemon3": "charmander",
+      "type3": "fire",
+      "level3": "43",
+      "pokemon4": "bulbasaur",
+      "type4": "grass",
+      "level4": "33",
+      "pokemon5": "gyarados",
+      "type5": "water",
+      "level5": "65",
+      "pokemon6": "blastoise",
+      "type6": "water",
+      "level6": "88"
+    },
+    {
+      "id": 4,
+      "pokemon1": "Greninja",
+      "type1": "Water",
+      "level1": "65",
+      "pokemon2": "Blastoise",
+      "type2": "Water",
+      "level2": "96",
+      "pokemon3": "Venasuar",
+      "type3": "Grass",
+      "level3": "65",
+      "pokemon4": "Tyranitar",
+      "type4": "Rock and Ground",
+      "level4": "96",
+      "pokemon5": "Garchomp",
+      "type5": "Ground and Dragon",
+      "level5": "75",
+      "pokemon6": "Salamence ",
+      "type6": "Fire and Dragon",
+      "level6": "86"
+    }
+  ],
+  "gym": [
+    {
+      "id": 1,
+      "gen": 1,
+      "name": "Pewter Gym",
+      "leader": "Brock",
+      "type": "Rock",
+      "badge": "Boulder Badge",
+      "obtained": "No"
+    },
+    {
+      "id": 2,
+      "gen": 1,
+      "name": "Cerulean Gym",
+      "leader": "Misty",
+      "type": "Water",
+      "badge": "Cascade Badge",
+      "obtained": "No"
+    },
+    {
+      "id": 3,
+      "gen": 1,
+      "name": "Vermilion Gym",
+      "leader": "Lt. Surge",
+      "type": "Electric",
+      "badge": "Thunder Badge",
+      "obtained": "Yes"
+    },
+    {
+      "id": 4,
+      "gen": 1,
+      "name": "Celadon Gym",
+      "leader": "Erika",
+      "type": "Grass",
+      "badge": "Rainbow Badge",
+      "obtained": "Yes"
+    },
+    {
+      "id": 5,
+      "gen": 1,
+      "name": "Fuchsia Gym",
+      "leader": "Koga",
+      "type": "Poison",
+      "badge": "Soul Badge",
+      "obtained": "No"
+    },
+    {
+      "id": 6,
+      "gen": 1,
+      "name": "Saffron Gym",
+      "leader": "Sabrina",
+      "type": "Psychic",
+      "badge": "Marsh Badge",
+      "obtained": "Yes"
+    },
+    {
+      "id": 7,
+      "gen": 1,
+      "name": "Cinnabar Gym",
+      "leader": "Blaine",
+      "type": "Fire",
+      "badge": "Volcano Badge",
+      "obtained": "Yes"
+    },
+    {
+      "id": 8,
+      "gen": 1,
+      "name": "Viridian Gym",
+      "leader": "Giovanni",
+      "type": "Ground",
+      "badge": "Earth Badge",
+      "obtained": "Yes"
+    },
+    {
+      "id": 9,
+      "gen": 2,
+      "name": "Violet Gym",
+      "leader": "Falkner",
+      "type": "Flying",
+      "badge": "Zephyr Badge",
+      "obtained": "Yes"
+    },
+    {
+      "id": 10,
+      "gen": 2,
+      "name": "Azelea Gym",
+      "leader": "Bugsy",
+      "type": "Bug",
+      "badge": "Hive Badge",
+      "obtained": "Yes"
+    },
+    {
+      "id": 11,
+      "gen": 2,
+      "name": "Goldenrod Gym",
+      "leader": "Whitney",
+      "type": "Normal",
+      "badge": "Plain Badge",
+      "obtained": "Yes"
+    },
+    {
+      "id": 12,
+      "gen": 2,
+      "name": "Ecruteak Gym",
+      "leader": "Morty",
+      "type": "Ghost",
+      "badge": "Fog Badge",
+      "obtained": "Yes"
+    },
+    {
+      "id": 13,
+      "gen": 2,
+      "name": "Cianwood Gym",
+      "leader": "Chuck",
+      "type": "Fighting",
+      "badge": "Storm Badge",
+      "obtained": "Yes"
+    },
+    {
+      "id": 14,
+      "gen": 2,
+      "name": "Olivine Gym",
+      "leader": "Jasmine",
+      "type": "Steel",
+      "badge": "Mineral Badge",
+      "obtained": "Yes"
+    },
+    {
+      "id": 15,
+      "gen": 2,
+      "name": "Mahogany Gym",
+      "leader": "Pryce",
+      "type": "Ice",
+      "badge": "Glacier Badge",
+      "obtained": "Yes"
+    },
+    {
+      "id": 16,
+      "gen": 2,
+      "name": "Blackthorn Gym",
+      "leader": "Clair",
+      "type": "Dragon",
+      "badge": "Rising Badge",
+      "obtained": "Yes"
+    },
+    {
+      "id": 17,
+      "gen": 3,
+      "name": "Rustboro Gym",
+      "leader": "Roxanne",
+      "type": "Rock",
+      "badge": "Stone Badge",
+      "obtained": "Yes"
+    },
+    {
+      "id": 18,
+      "gen": 3,
+      "name": "Dewford Gym",
+      "leader": "Brawly",
+      "type": "Fighting",
+      "badge": "Knuckle Badge",
+      "obtained": "Yes"
+    },
+    {
+      "id": 19,
+      "gen": 3,
+      "name": "Mauville Gym",
+      "leader": "Wattson",
+      "type": "Electric",
+      "badge": "Dynamo Badge",
+      "obtained": "Yes"
+    },
+    {
+      "id": 20,
+      "gen": 3,
+      "name": "Lavaridge Gym",
+      "leader": "Flannery",
+      "type": "Fire",
+      "badge": "Heat Badge",
+      "obtained": "Yes"
+    },
+    {
+      "id": 21,
+      "gen": 3,
+      "name": "Petalburg Gym",
+      "leader": "Norman",
+      "type": "Normal",
+      "badge": "Balance Badge",
+      "obtained": "Yes"
+    },
+    {
+      "id": 22,
+      "gen": 3,
+      "name": "Fortree Gym",
+      "leader": "Winona",
+      "type": "Flying",
+      "badge": "Feather Badge",
+      "obtained": "Yes"
+    },
+    {
+      "id": 23,
+      "gen": 3,
+      "name": "Mossdeep Gym",
+      "leader": "Tate and Liza",
+      "type": "Psychic",
+      "badge": "Mind Badge",
+      "obtained": "No"
+    },
+    {
+      "id": 24,
+      "gen": 3,
+      "name": "Sootopolis Gym",
+      "leader": "Wallace",
+      "type": "Water",
+      "badge": "Rain Badge",
+      "obtained": "Yes"
+    },
+    {
+      "id": 25,
+      "gen": 4,
+      "name": "Oreburgh Gym",
+      "leader": "Roark",
+      "type": "Rock",
+      "badge": "Coal Badge",
+      "obtained": "Yes"
+    },
+    {
+      "id": 26,
+      "gen": 4,
+      "name": "Eterna Gym",
+      "leader": "Gardenia",
+      "type": "Grass",
+      "badge": "Forest Badge",
+      "obtained": "Yes"
+    },
+    {
+      "id": 27,
+      "gen": 4,
+      "name": "Veilstone Gym",
+      "leader": "Maylene",
+      "type": "Fighting",
+      "badge": "Cobble Badge",
+      "obtained": "Yes"
+    },
+    {
+      "id": 28,
+      "gen": 4,
+      "name": "Pastoria Gym",
+      "leader": "Crasher Wake",
+      "type": "Water",
+      "badge": "Fen Badge",
+      "obtained": "Yes"
+    },
+    {
+      "id": 29,
+      "gen": 4,
+      "name": "Hearthome Gym",
+      "leader": "Fantina",
+      "type": "Ghost",
+      "badge": "Relic Badge",
+      "obtained": "Yes"
+    },
+    {
+      "id": 30,
+      "gen": 4,
+      "name": "Canalave Gym",
+      "leader": "Byron",
+      "type": "Steel",
+      "badge": "Mine Badge",
+      "obtained": "Yes"
+    },
+    {
+      "id": 31,
+      "gen": 4,
+      "name": "Snowpoint Gym",
+      "leader": "Candice",
+      "type": "Ice",
+      "badge": "Icicle Badge",
+      "obtained": "Yes"
+    },
+    {
+      "id": 32,
+      "gen": 4,
+      "name": "Sunyshore Gym",
+      "leader": "Volkner",
+      "type": "Electric",
+      "badge": "Beacon Badge",
+      "obtained": "Yes"
+    },
+    {
+      "id": 33,
+      "gen": 5,
+      "name": "Striaton Gym",
+      "leader": "Cilan, Chili, Cress",
+      "type": "Grass, Fire, Water",
+      "badge": "Trio Badge",
+      "obtained": "Yes"
+    },
+    {
+      "id": 34,
+      "gen": 5,
+      "name": "Nacrene, Aspertia Gym",
+      "leader": "Lenora, Cheren",
+      "type": "Normal",
+      "badge": "Basic Badge",
+      "obtained": "Yes"
+    },
+    {
+      "id": 35,
+      "gen": 5,
+      "name": "Virbank Gym",
+      "leader": "Roxie",
+      "type": "Poison",
+      "badge": "Toxic Badge",
+      "obtained": "Yes"
+    },
+    {
+      "id": 36,
+      "gen": 5,
+      "name": "Castelia Gym",
+      "leader": "Burgh",
+      "type": "Bug",
+      "badge": "Insect Badge",
+      "obtained": "Yes"
+    },
+    {
+      "id": 37,
+      "gen": 5,
+      "name": "Nimbasa Gym",
+      "leader": "Elesa",
+      "type": "Electric",
+      "badge": "Bolt Badge",
+      "obtained": "Yes"
+    },
+    {
+      "id": 38,
+      "gen": 5,
+      "name": "Driftveil Gym",
+      "leader": "Clay",
+      "type": "Ground",
+      "badge": "Quake Badge",
+      "obtained": "Yes"
+    },
+    {
+      "id": 39,
+      "gen": 5,
+      "name": "Mistralton Gym",
+      "leader": "Skyla",
+      "type": "Flying",
+      "badge": "Jet Badge",
+      "obtained": "Yes"
+    },
+    {
+      "id": 40,
+      "gen": 5,
+      "name": "Icirrus Gym",
+      "leader": "Brycen",
+      "type": "Ice",
+      "badge": "Freeze Badge",
+      "obtained": "Yes"
+    },
+    {
+      "id": 41,
+      "gen": 5,
+      "name": "Opelucid Gym",
+      "leader": "Drayden, Iris",
+      "type": "Dragon",
+      "badge": "Legend Badge",
+      "obtained": "Yes"
+    },
+    {
+      "id": 42,
+      "gen": 5,
+      "name": "Humilau Gym",
+      "leader": "Marlon",
+      "type": "Water",
+      "badge": "Wave Badge",
+      "obtained": "Yes"
+    },
+    {
+      "id": 43,
+      "gen": 6,
+      "name": "Santalune Gym",
+      "leader": "Viola",
+      "type": "Bug",
+      "badge": "Bug Badge",
+      "obtained": "Yes"
+    },
+    {
+      "id": 44,
+      "gen": 6,
+      "name": "Cyllage Gym",
+      "leader": "Grant",
+      "type": "Rock",
+      "badge": "Cliff Badge",
+      "obtained": "Yes"
+    },
+    {
+      "id": 45,
+      "gen": 6,
+      "name": "Shalour Gym",
+      "leader": "Korrina",
+      "type": "Fighting",
+      "badge": "Rumble Badge",
+      "obtained": "Yes"
+    },
+    {
+      "id": 46,
+      "gen": 6,
+      "name": "Coumarine Gym",
+      "leader": "Ramos",
+      "type": "Grass",
+      "badge": "Plant Badge",
+      "obtained": "Yes"
+    },
+    {
+      "id": 47,
+      "gen": 6,
+      "name": "Lumiose Gym",
+      "leader": "Clemont",
+      "type": "Electric",
+      "badge": "Voltage Badge",
+      "obtained": "Yes"
+    },
+    {
+      "id": 48,
+      "gen": 6,
+      "name": "Laverre Gym",
+      "leader": "Valerie",
+      "type": "Fairy",
+      "badge": "Fairy Badge",
+      "obtained": "Yes"
+    },
+    {
+      "id": 49,
+      "gen": 6,
+      "name": "Anistar Gym",
+      "leader": "Olympia",
+      "type": "Psychic",
+      "badge": "Psychic Badge",
+      "obtained": "Yes"
+    },
+    {
+      "id": 50,
+      "gen": 6,
+      "name": "Snowbelle Gym",
+      "leader": "Wulfric",
+      "type": "Ice",
+      "badge": "Iceberg Badge",
+      "obtained": "Yes"
+    },
+    {
+      "id": 51,
+      "gen": 7,
+      "name": "Turffield Stadium",
+      "leader": "Milo",
+      "type": "Grass",
+      "badge": "Grass Badge",
+      "obtained": "Yes"
+    },
+    {
+      "id": 52,
+      "gen": 7,
+      "name": "Hulbury Stadium",
+      "leader": "Nessa",
+      "type": "Water",
+      "badge": "Water Badge",
+      "obtained": "Yes"
+    },
+    {
+      "id": 53,
+      "gen": 7,
+      "name": "Motostoke Stadium",
+      "leader": "Kabu",
+      "type": "Fire",
+      "badge": "Fire Badge",
+      "obtained": "Yes"
+    },
+    {
+      "id": 54,
+      "gen": 7,
+      "name": "Stow-On-Side Stadium",
+      "leader": "Bea, Allister",
+      "type": "Fighting, Ghost",
+      "badge": "Fighting, Ghost Badge",
+      "obtained": "Yes"
+    },
+    {
+      "id": 55,
+      "gen": 7,
+      "name": "Ballonlea Stadium",
+      "leader": "Opal, Bede",
+      "type": "Fairy",
+      "badge": "Fairy Badge",
+      "obtained": "No"
+    },
+    {
+      "id": 56,
+      "gen": 7,
+      "name": "Circhester Stadium",
+      "leader": "Gordie, Melony",
+      "type": "Rock, Ice",
+      "badge": "Rock, Ice Badge",
+      "obtained": "Yes"
+    },
+    {
+      "id": 57,
+      "gen": 7,
+      "name": "Spikemuth Gym",
+      "leader": "Piers, Marnie",
+      "type": "Dark",
+      "badge": "Dark Badge",
+      "obtained": "Yes"
+    },
+    {
+      "id": 58,
+      "gen": 7,
+      "name": "Hammerlocke Stadium",
+      "leader": "Raihan",
+      "type": "Dragon",
+      "badge": "Dragon Badge",
+      "obtained": "Yes"
+    },
+    {
+      "id": 59,
+      "gen": 8,
+      "name": "Cortondo Gym",
+      "leader": "Katy",
+      "type": "Bug",
+      "badge": "Bug Badge",
+      "obtained": "Yes"
+    },
+    {
+      "id": 60,
+      "gen": 8,
+      "name": "Artazon Gym",
+      "leader": "Brassius",
+      "type": "Grass",
+      "badge": "Grass Badge",
+      "obtained": "Yes"
+    },
+    {
+      "id": 61,
+      "gen": 8,
+      "name": "Levincia Gym",
+      "leader": "Iono",
+      "type": "Electric",
+      "badge": "Electric Badge",
+      "obtained": "Yes"
+    },
+    {
+      "id": 62,
+      "gen": 8,
+      "name": "Cascarrafa Gym",
+      "leader": "Kofu",
+      "type": "Water",
+      "badge": "Water Badge",
+      "obtained": "No"
+    },
+    {
+      "id": 63,
+      "gen": 8,
+      "name": "Medali Gym",
+      "leader": "Larry",
+      "type": "Normal",
+      "badge": "Normal Badge",
+      "obtained": "Yes"
+    },
+    {
+      "id": 64,
+      "gen": 8,
+      "name": "Montenevera Gym",
+      "leader": "Ryme",
+      "type": "Ghost",
+      "badge": "Ghost Badge",
+      "obtained": "Yes"
+    },
+    {
+      "id": 65,
+      "gen": 8,
+      "name": "Alfornada Gym",
+      "leader": "Tulip",
+      "type": "Psychic",
+      "badge": "Psychic Badge",
+      "obtained": "Yes"
+    },
+    {
+      "id": 66,
+      "gen": 8,
+      "name": "Glaseado Gym",
+      "leader": "Grusha",
+      "type": "Ice",
+      "badge": "Ice Badge",
+      "obtained": "Yes"
+    }
+  ]
+}

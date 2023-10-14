@@ -1,0 +1,84 @@
+.App {
+  text-align: center;
+}
+
+
+/*This is the CSS page that is used to stylize a lot of the app
+this is used for most of the banners as well as images and also has the text stylizing for the 
+menu and navbar lettering there are also some custom container functions made for some of the lists on the homepage*/
+
+
+
+
+  
+
+
+.imgText {
+  text-shadow: 5px 3px 3px black;
+  font-weight: bold;
+  opacity: 1 !important;
+}
+
+
+.ULlist {
+  display: inline-block;
+}
+
+.navBG {
+  background-image: url("https://ultrapro.com/cdn/shop/products/85246_Mat_PKM_Pokeball_800x.png?v=1652806538");
+  background-size: auto;
+  background-position: right 55%;
+  height:200px;
+  background-repeat: no-repeat;
+  background-color: rgb(255, 255, 255);
+
+  
+}
+.imgText1 {
+  text-shadow: 1px 1px 1px rgb(255, 255, 255);
+  font-weight: bold;
+  color: black;
+  font-weight: bolder;
+  font-size: 15px;
+  opacity: 1 !important;
+}
+
+
+.navBG2 {
+  
+  
+  background-position: center 95%;
+  
+  opacity: .8;
+  
+}
+
+.obtainedBG {
+  background-image: url("https://cdn.shopify.com/s/files/1/2013/2287/collections/1cb5d69e09097d999ca170192eaf351b.jpg?v=1661806154");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 200px;
+  background-position: center;
+
+}
+.teamBG {
+  background-image: url("https://pbs.twimg.com/media/E3IWVUmXIAIJ-9-?format=jpg&name=large");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 300px;
+  
+  background-position: center;
+
+}
+
+.small-middle-container{
+	margin: auto;
+	width: 40%;
+}
+
+.small-middle-container2{
+	margin: auto;
+	width: 80%;
+}
+
+/*https://ultrapro.com/cdn/shop/products/85246_Mat_PKM_Pokeball_800x.png?v=1652806538"*/
